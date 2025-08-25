@@ -16,9 +16,4 @@ It provides real-time feedback whether the guess is too high, too low, or correc
 - Shows feedback ("Too High", "Too Low", "Correct")
 - Simple and clean GUI
 
-## 📸 Screenshot
-(Add screenshot of your game here)
-
----
-
 ✨ Developed as part of my internship at **Prodigy Infotech**
